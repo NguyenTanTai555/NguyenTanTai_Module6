@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="448703bd-b591-426c-87d0-50aa97589f68" name="Default Changelist" comment="" />
+    <list default="true" id="3f912caa-3b23-45fd-a3dc-183913113cab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Book-Store-Project-Angular/.idea/Book-Store-Project-Angular.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book-Store-Project-Angular/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book-Store-Project-Angular/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book-Store-Project-Angular/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book-Store-Project-Angular/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book-Store-Project-Angular/book-store-project" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2HAfyZsg28CSa8ajZn0IUQBhEA0" />
+  <component name="ProjectId" id="2HBN9zQFEQXzhzdWmv7N0jv8cvF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,12 +34,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="448703bd-b591-426c-87d0-50aa97589f68" name="Default Changelist" comment="" />
-      <created>1667733064129</created>
+      <changelist id="3f912caa-3b23-45fd-a3dc-183913113cab" name="Default Changelist" comment="" />
+      <created>1667754369203</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667733064129</updated>
-      <workItem from="1667733067463" duration="275000" />
+      <updated>1667754369203</updated>
+      <workItem from="1667754372499" duration="1733000" />
     </task>
     <servers />
   </component>
@@ -40,9 +47,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1667733361108">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1667756148455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667733361108" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1667756148455" />
   </component>
 </project>
