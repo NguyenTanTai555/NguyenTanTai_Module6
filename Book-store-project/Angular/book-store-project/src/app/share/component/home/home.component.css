@@ -1,0 +1,14 @@
+.menu{
+  height: 70px;
+  width: 1238px;
+}
+.img{
+  width: 200px;
+  height: 300px;
+
+}
+.list{
+  border: 1px solid white;
+  margin-left: 2px;
+  margin-right: 2px;
+}
